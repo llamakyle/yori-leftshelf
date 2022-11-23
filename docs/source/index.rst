@@ -16,5 +16,5 @@ Contents
 
 .. toctree::
 
-   Kitchen Cell
+   Kitchen_Cell
    Electrical
