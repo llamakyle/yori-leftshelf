@@ -13,7 +13,10 @@ Salamander Broiler
 ^^^^^^^^^^^^^^^^^^
 **General Info**
 
-*Max Temp: 200C Min Temp: 24C
+*Max Temp: 850C Min Temp: 400C
+   *Machine temperatures are in F
+*Requires timer to be on, so will always load a full timer when starting
+*Goes to sleep if left idle for too long, so may need to implement a work around.
 
 **Key Frames:**
 
@@ -89,9 +92,7 @@ Pasta Cooker
 **General Info**
 
 *Max Temp: 100C Min Temp: 24C
-   *Machine temperatures are in F
-*Requires timer to be on, so will always load a full timer when starting
-*Goes to sleep if left idle for too long, so may need to implement a work around.
+
 
 **Key Frames:**
 
@@ -129,6 +130,10 @@ Pasta Cooker
 .. _Deep-Fryer:   
 Deep Fryer
 ^^^^^^^^^^
+**General Info**
+
+*Max Temp: 200C Min Temp: 24C
+
 **Key Frames:**
 
 .. csv-table:: Appliance Key Frames
