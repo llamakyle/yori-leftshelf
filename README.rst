@@ -1,9 +1,16 @@
-Template for the Read the Docs tutorial
-=======================================
+YORI Documentation Docs
+=======================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+For new section create a new .rst file with the name of the section and then add the name of the section under .. toctree:: in index.rst 
 
 Read the tutorial here:
 
 https://docs.readthedocs.io/en/stable/tutorial/
+
+Find Relevant API for writing docs here:
+
+https://www.sphinx-doc.org/en/master/index.html
+
+Basics:
+
+https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html
