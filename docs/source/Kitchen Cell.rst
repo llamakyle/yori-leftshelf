@@ -11,6 +11,10 @@ The left shelf houses the majority of the modified kitchen appliances including 
 .. _Salamander-Broiler:
 Salamander Broiler
 ^^^^^^^^^^^^^^^^^^
+**General Info**
+
+*Max Temp: 200C Min Temp: 24C
+
 **Key Frames:**
 
 .. csv-table:: Appliance Key Frames
@@ -44,6 +48,10 @@ Salamander Broiler
 
 Convection-Oven
 ^^^^^^^^^^^^^^^
+**General Info**
+
+*Max Temp: 450C Min Temp: 24C
+
 **Key Frames:**
 
 .. csv-table:: Appliance Key Frames
@@ -78,6 +86,13 @@ Convection-Oven
 .. _Pasta-Cooker:   
 Pasta Cooker
 ^^^^^^^^^^^^
+**General Info**
+
+*Max Temp: 100C Min Temp: 24C
+   *Machine temperatures are in F
+*Requires timer to be on, so will always load a full timer when starting
+*Goes to sleep if left idle for too long, so may need to implement a work around.
+
 **Key Frames:**
 
 .. csv-table:: Appliance Key Frames
@@ -144,7 +159,45 @@ Deep Fryer
 *Implement fluid replacement system
    *Perastaltic pump for filling and solenoid valve for drainage
 
+**Shelf Hardware**
+^^^^^^^^^^^^^^^^^^
+**Key Frames:**
+
+.. csv-table:: Appliance Key Frames
+   :header: "Frame ID", "X (mm)", "Y (mm)", Z (mm)
+   :widths: 30, 15, 15, 15
+
+   "Origin", 100, 100, 100
+
+**Setup:**
+
+*Can be divided into its two shelves and two sides for flat shipping.
+
+ 
+**Future Work?:**
+
+*Make some physical connection to the main body of YORI for easier alignment.
+   *Can also be helpful for cable and fluid management.
+*Make a propper mounting system for the electrical components
+*If possible maybe make or find quick connect system to replace some angle brackets.
+
+**Exhaust System**
+^^^^^^^^^^^^^^^^^^
+
+**Setup:**
+
+*Series of standard connectors between duct elements.
+*Hand tighten hose clamps to connect the components.
+
+ 
+**Future Work?:**
+
+*Make an attachment point on the shelf.
+*Include additional filter to protect the fan from any physcial debris.
+
+
 .. _Right Shelf:
+
 Right_Shelf
 -----------
 
