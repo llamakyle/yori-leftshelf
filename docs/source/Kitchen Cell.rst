@@ -21,13 +21,13 @@ Salamander Broiler
 **Key Frames:**
 
 .. csv-table:: Appliance Key Frames
-   :header: "Frame ID", "X (mm)", "Y (mm)", Z (mm)
+   :header: "Frame ID", "X (m)", "Y (m)", Z (m)
    :widths: 30, 15, 15, 15
 
-   "Upper Shelf Inserted", 100, 100, 100
-   "Upper Shelf Removed", 100, 100, 100
-   "Lower Shelf Inserted", 100, 100, 100
-   "Lower Shelf Removed", 100, 100, 100
+   "Upper Shelf Inserted", 0.6825, 0.3599, 0.2803
+   "Upper Shelf Removed", 0.6825, 0.24, 0.2803
+   "Lower Shelf Inserted",  0.6825, 0.3599, 0.2222
+   "Lower Shelf Removed",  0.6825, 0.24, 0.2222
    
 **Modifications:**
 
@@ -61,10 +61,10 @@ Convection-Oven
    :header: "Frame ID", "X (mm)", "Y (mm)", Z (mm)
    :widths: 30, 15, 15, 15
 
-   "Door Closed", 100, 100, 100
-   "Door Opened", 100, 100, 100
-   "Pan Inserted", 100, 100, 100
-   "Pan Removed", 100, 100, 100
+   "Door Closed", - 0.3601, 0.6273, 0.2692
+   "Door Opened", - 0.3601, 0.4175, - 0.0289
+   "Pan Inserted", - 0.3601, 0.7652, 0.0802
+   "Pan Removed", - 0.3601, 0.4175, 0.0802
    
 **Modifications:**
 
@@ -100,10 +100,10 @@ Pasta Cooker
    :header: "Frame ID", "X (mm)", "Y (mm)", Z (mm)
    :widths: 30, 15, 15, 15
 
-   "Basket Inserted", 100, 100, 100
-   "Basket Removed", 100, 100, 100
-   "Basket Hanging", 100, 100, 100
-   "Basket pre-Insert", 100, 100, 100
+   "Basket Inserted", - 0.3601, 0.7325, - 0.3482
+   "Basket Removed", - 0.3601, 0.4175, - 0.1740
+   "Basket Hanging", - 0.3601, 0.7470, - 0.2765
+   "Basket pre-Insert", - 0.3601, 0.7325, - 0.1740
    
 **Modifications:**
 
@@ -140,10 +140,10 @@ Deep Fryer
    :header: "Frame ID", "X (mm)", "Y (mm)", Z (mm)
    :widths: 30, 15, 15, 15
 
-   "Basket Inserted", 100, 100, 100
-   "Basket Removed", 100, 100, 100
-   "Basket Hanging", 100, 100, 100
-   "Basket pre-Insert", 100, 100, 100
+   "Basket Inserted", 0.3558, 0.7141, - 0.3976
+   "Basket Removed", 0.3558, 0.4175, - 0.2116
+   "Basket Hanging", 0.3558, 0.73623, - 0.2956
+   "Basket pre-Insert", 0.3558, 0.7141, - 0.2116
    
 **Modifications:**
 
