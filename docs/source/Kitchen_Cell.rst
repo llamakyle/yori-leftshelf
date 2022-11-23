@@ -1,10 +1,10 @@
 Kitchen_Cell
-=====
+============
 
 .. _Left_Shelf:
 
 Left_Shelf
-------------
+----------
 
 To use Lumache, first install it using pip:
 
