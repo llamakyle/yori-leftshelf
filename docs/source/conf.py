@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'YORI'
+copyright = '2022, Kyle Gillespie'
+author = 'Kyle Gillespie'
 
 release = '0.1'
 version = '0.1.0'
