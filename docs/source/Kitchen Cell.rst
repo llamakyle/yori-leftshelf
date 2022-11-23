@@ -58,13 +58,13 @@ Convection-Oven
 **Key Frames:**
 
 .. csv-table:: Appliance Key Frames
-   :header: "Frame ID", "X (mm)", "Y (mm)", Z (mm)
+   :header: "Frame ID", "X (m)", "Y (m)", Z (m)
    :widths: 30, 15, 15, 15
 
-   "Door Closed", - 0.3601, 0.6273, 0.2692
-   "Door Opened", - 0.3601, 0.4175, - 0.0289
-   "Pan Inserted", - 0.3601, 0.7652, 0.0802
-   "Pan Removed", - 0.3601, 0.4175, 0.0802
+   "Door Closed", -0.3601, 0.6273, 0.2692
+   "Door Opened", -0.3601, 0.4175, -0.0289
+   "Pan Inserted", -0.3601, 0.7652, 0.0802
+   "Pan Removed", -0.3601, 0.4175, 0.0802
    
 **Modifications:**
 
@@ -97,13 +97,13 @@ Pasta Cooker
 **Key Frames:**
 
 .. csv-table:: Appliance Key Frames
-   :header: "Frame ID", "X (mm)", "Y (mm)", Z (mm)
+   :header: "Frame ID", "X (m)", "Y (m)", Z (m)
    :widths: 30, 15, 15, 15
 
-   "Basket Inserted", - 0.3601, 0.7325, - 0.3482
-   "Basket Removed", - 0.3601, 0.4175, - 0.1740
-   "Basket Hanging", - 0.3601, 0.7470, - 0.2765
-   "Basket pre-Insert", - 0.3601, 0.7325, - 0.1740
+   "Basket Inserted", -0.3601, 0.7325, -0.3482
+   "Basket Removed", -0.3601, 0.4175, -0.1740
+   "Basket Hanging", -0.3601, 0.7470, -0.2765
+   "Basket pre-Insert", -0.3601, 0.7325, -0.1740
    
 **Modifications:**
 
@@ -137,13 +137,13 @@ Deep Fryer
 **Key Frames:**
 
 .. csv-table:: Appliance Key Frames
-   :header: "Frame ID", "X (mm)", "Y (mm)", Z (mm)
+   :header: "Frame ID", "X (m)", "Y (m)", Z (m)
    :widths: 30, 15, 15, 15
 
-   "Basket Inserted", 0.3558, 0.7141, - 0.3976
-   "Basket Removed", 0.3558, 0.4175, - 0.2116
-   "Basket Hanging", 0.3558, 0.73623, - 0.2956
-   "Basket pre-Insert", 0.3558, 0.7141, - 0.2116
+   "Basket Inserted", 0.3558, 0.7141, -0.3976
+   "Basket Removed", 0.3558, 0.4175, -0.2116
+   "Basket Hanging", 0.3558, 0.73623, -0.2956
+   "Basket pre-Insert", 0.3558, 0.7141, -0.2116
    
 **Modifications:**
 
@@ -169,10 +169,10 @@ Deep Fryer
 **Key Frames:**
 
 .. csv-table:: Appliance Key Frames
-   :header: "Frame ID", "X (mm)", "Y (mm)", Z (mm)
+   :header: "Frame ID", "X (m)", "Y (m)", Z (m)
    :widths: 30, 15, 15, 15
 
-   "Origin", 100, 100, 100
+   "Origin", -0.6697, 0.7080, -1.2453
 
 **Setup:**
 
