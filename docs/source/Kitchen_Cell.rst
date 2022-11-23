@@ -1,4 +1,4 @@
-Kitchen_Cell
+Kitchen Cell
 ============
 
 .. _Left_Shelf:
@@ -39,6 +39,8 @@ Salamander Broiler
 *Making the ventilation mount system more robust (ie. having more specific screw holes rather than the vent it currently uses).
    *If sticking with shelves, replace plastic ones with modified aluminum brackets.
 
+
+
 Convection Oven
 ^^^^^^^^^^^^^^^
 **Key Frames:**
@@ -70,6 +72,8 @@ Convection Oven
    *Adding magnets and guides for consitant alignment.
 *Add internal metal alignment guides for pan insertion.
    *May also incorporate some form of temperature sensing to measure pan temperature.
+   
+   
    
 Pasta Cooker
 ^^^^^^^^^^^^
@@ -104,6 +108,8 @@ Pasta Cooker
    *Simple raising and lowering would work though  consideration for condensation and cleanliness may be needed.
 *Implement fluid replacement system
    *Perastaltic pump for filling and solenoid valve for drainage
+   
+   
    
 Deep Fryer
 ^^^^^^^^^^
