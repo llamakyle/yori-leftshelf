@@ -14,3 +14,7 @@ https://www.sphinx-doc.org/en/master/index.html
 Basics:
 
 https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html
+
+Build the page from here (will need an account first):
+
+https://readthedocs.org/projects/
