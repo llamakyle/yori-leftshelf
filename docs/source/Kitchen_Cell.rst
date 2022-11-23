@@ -1,9 +1,9 @@
-Usage
+Kitchen_Cell
 =====
 
-.. _installation:
+.. _Left_Shelf:
 
-Installation
+Left_Shelf
 ------------
 
 To use Lumache, first install it using pip:
