@@ -4,8 +4,8 @@ RoMeLa YORI Documentation
 **Yummy Operations Robotics Initiative** 
 
 
-The :doc:`Kitchen_Cell` section is divided between the 
-:ref:`Left_Shelf`, :ref:`Front Shelf`, :ref:`Right Shelf`, and :ref:`Plating Table`.
+The :doc:`Kitchen Cell` section is divided between the 
+:ref:`Left Shelf`, :ref:`Front Shelf`, :ref:`Right Shelf`, and :ref:`Plating Table`.
 
 .. note::
 
@@ -16,5 +16,5 @@ Contents
 
 .. toctree::
 
-   Kitchen_Cell
+   Kitchen Cell
    Electrical
