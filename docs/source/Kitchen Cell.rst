@@ -6,8 +6,9 @@ Kitchen Cell
 Left Shelf
 ----------
 
-The left shelf houses the majority of the modified kitchen appliances including the Salamander Broiler (for high temperature short duration cooking), the Convection Oven (for general baking operations), the Pasta Cooker (for boiling water, cooking and steaming), and the Deep Fryer (for frying).
+The left shelf houses the majority of the modified kitchen appliances including the :ref:'Salamander Broiler' (for high temperature short duration cooking), the :ref:'Convection Oven' (for general baking operations), the :ref:'Pasta Cooker' (for boiling water, cooking and steaming), and the :ref:'Deep Fryer' (for frying).
 
+.. _Salamander Broiler:
 Salamander Broiler
 ^^^^^^^^^^^^^^^^^^
 **Key Frames:**
@@ -74,7 +75,7 @@ Convection Oven
    *May also incorporate some form of temperature sensing to measure pan temperature.
    
    
-   
+.. _Pasta Cooker:   
 Pasta Cooker
 ^^^^^^^^^^^^
 **Key Frames:**
@@ -110,7 +111,7 @@ Pasta Cooker
    *Perastaltic pump for filling and solenoid valve for drainage
    
    
-   
+.. _Deep Fryer:   
 Deep Fryer
 ^^^^^^^^^^
 **Key Frames:**
