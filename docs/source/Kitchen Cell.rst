@@ -24,10 +24,10 @@ Salamander Broiler
    :header: "Frame ID", "X (m)", "Y (m)", Z (m)
    :widths: 30, 15, 15, 15
 
-   "Upper Shelf Inserted", 0.6825, 0.3599, 0.2563
-   "Upper Shelf Removed",  0.6825, 0.24, 0.2563
-   "Lower Shelf Inserted",  0.6825, 0.3599, 0.2222
-   "Lower Shelf Removed",  0.6825, 0.24, 0.2222
+   "Upper Shelf Inserted", , 0.3600, 0.6842, 0.2563
+   "Upper Shelf Removed",  0.3600, 0.5064, 0.2563
+   "Lower Shelf Inserted",  0.3600, 0.6842, 0.2222
+   "Lower Shelf Removed",  0.3600, 0.5064, 0.2222
    
 **Modifications:**
 
