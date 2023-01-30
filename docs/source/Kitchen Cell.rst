@@ -61,8 +61,8 @@ Convection-Oven
    :header: "Frame ID", "X (m)", "Y (m)", Z (m)
    :widths: 30, 15, 15, 15
 
-   "Door Closed",  -0.3601, 0.6273,  0.2692
-   "Door Opened",  -0.3601, 0.4175, -0.0289
+   "Door Closed",  -0.3601, 0.6210,  0.2649
+   "Door Opened",  -0.3601, 0.4155, -0.0416
    "Pan Inserted", -0.3601, 0.7652, 0.0802
    "Pan Removed",  -0.3601, 0.4175, 0.0802
    
